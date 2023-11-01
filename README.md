@@ -1,4 +1,4 @@
-# Welcome to the One and only UdaciRacer Simulation Game
+# UdaciRacer Simulation Game
 
 ## Project Introduction
 
